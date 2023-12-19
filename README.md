@@ -6,11 +6,11 @@ A script designed to automate the process of placing orders for product on [shop
 ### :sparkles: [Noz3nogram](https://github.com/allforest01/Noz3nogram)
 An automation tool for solving [Picross Touch](https://store.steampowered.com/app/476460/Picross_Touch/)'s challenges.
 
-### :sparkles: [HypnosisMagic](https://github.com/allforest01/HypnosisMagic) :lock:
+### :sparkles: [HypnosisMagic](https://github.com/allforest01/HypnosisMagic)
 Simple cross-platform remote desktop tool in LAN.
 
 ### :sparkles: [QnaireCraft](https://github.com/allforest01/QnaireCraft) :lock:
-Questionnaire Generation with LangChain. <samp><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="28px"></samp>
+Questionnaire Generation with LangChain.
 
 # :mage_woman: Magic Arrays
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
