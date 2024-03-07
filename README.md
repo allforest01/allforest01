@@ -9,8 +9,8 @@ An automation tool for solving [Picross Touch](https://store.steampowered.com/ap
 ### :sparkles: [HypnosisMagic](https://github.com/allforest01/HypnosisMagic)
 Simple cross-platform remote desktop tool in LAN.
 
-### :sparkles: [QnaireCraft](https://github.com/allforest01/QnaireCraft) :lock:
-Questionnaire Generation with LangChain.
+### :sparkles: [Gomoku](https://github.com/allforest01/Gomoku)
+A two-player Caro game using Pygame and Pygame-GUI with cross-platform compatibility.
 
 # :mage_woman: Magic Arrays
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
