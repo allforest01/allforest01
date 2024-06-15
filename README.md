@@ -1,16 +1,16 @@
-# :mage_woman: Primary Spells
+# :mage_woman: Magic Books
 
 ### :sparkles: [projectEMI](https://github.com/allforest01/projectEMI)
-A script designed to automate the process of placing orders for product on [shopee.vn](https://shopee.vn/).
+A script that automates the process of placing orders on [shopee.vn](https://shopee.vn/).
 
 ### :sparkles: [Noz3nogram](https://github.com/allforest01/Noz3nogram)
-An automation tool for solving [Picross Touch](https://store.steampowered.com/app/476460/Picross_Touch/)'s challenges.
+An automation tool for solving challenges in [Picross Touch](https://store.steampowered.com/app/476460/Picross_Touch/).
 
 ### :sparkles: [HypnosisMagic](https://github.com/allforest01/HypnosisMagic)
-Simple cross-platform remote desktop tool in LAN.
+A cross-platform remote desktop tool.
 
-### :sparkles: [Gomoku](https://github.com/allforest01/Gomoku)
-A two-player Caro game using Pygame and Pygame-GUI with cross-platform compatibility.
+### :sparkles: [VideoCall (Viettel Digital Talent 2024)](https://github.com/allforest01/VideoCall)
+A video call system for customer support services.
 
 # :mage_woman: Magic Arrays
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
